@@ -3,7 +3,7 @@
 
 - 👨‍💻 **I Study at Trybe, a web development school**
 
-- 🥋 Today I'm learning **MongoDB**
+- 🥋 Today I'm learning **Python**
 
 - 🔭 I’m currently working on **personal projects**
 
