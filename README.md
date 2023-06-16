@@ -1,11 +1,11 @@
 <h1 align="center">Hello, I'm Gabriel Caminha 🎯</h1>
 <h3 align="center">An extremely curious and dedicated Developer</h3>
 
-- 👨‍💻 **I Study at Trybe, a web development school**
+- 👨‍💻 **I Studied at Trybe, a web development school**
 
-- 🥋 Today I'm learning **Python**
+- 🥋 Today I'm learning **Laravel**
 
-- 🔭 I’m currently working on **personal projects**
+- 🔭 I’m currently working at **Dev4B**
 
 - 📫 You can reach me at: **gabrielcaminha255@gmail.com**
 
