@@ -3,13 +3,13 @@
 
 - 👨‍💻 **I Studied at Trybe, a web development school**
 
-- 🥋 Today I'm learning **Laravel**
+- 🥋 Today I'm learning **C#**
 
 - 🔭 I’m currently working at **Dev4B**
 
 - 📫 You can reach me at: **gabrielcaminha255@gmail.com**
 
-- 🎲 Extra Fact: I love to use my freetime **playing videogames, rpgs and learning Game Development**
+- 🎲 Extra Fact: I love to use my freetime **playing videogames, rpgs and learning game development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
