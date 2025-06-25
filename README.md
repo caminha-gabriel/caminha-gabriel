@@ -5,8 +5,6 @@
 
 - 🥋 Today I'm learning **C#**
 
-- 🔭 I’m currently working at **Dev4B**
-
 - 📫 You can reach me at: **gabrielcaminha255@gmail.com**
 
 - 🎲 Extra Fact: I love to use my freetime **playing videogames, rpgs and learning game development**
